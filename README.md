@@ -12,7 +12,7 @@ Building a modern data warehouse with sql using ETL processes, data modelling an
 
 ### BI Analytics & Reporting (Data Analytics)
 
-##Objectives :
+###Objectives :
 
 Develop SQL baased insights into : 
 * Customer behaviour
@@ -21,4 +21,4 @@ Develop SQL baased insights into :
 
 The above insights empower stakeholders with key business metrics enabling strategic decision making
 
-##About me
+###About me
