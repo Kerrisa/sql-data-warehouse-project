@@ -14,7 +14,7 @@ Building a modern data warehouse (medellion architecture) with sql using ETL pro
 
 ###Objectives :
 
-Develop SQL baased insights into : 
+Develop SQL based insights into : 
 * Customer behaviour
 * Product Performance
 * Sales Trends
