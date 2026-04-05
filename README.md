@@ -20,5 +20,3 @@ Develop SQL based insights into :
 * Sales Trends
 
 The above insights empower stakeholders with key business metrics enabling strategic decision making
-
-###About me
